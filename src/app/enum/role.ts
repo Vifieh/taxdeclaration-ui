@@ -1,0 +1,3 @@
+export enum Role {
+   ROLE_COMPANY = 'COMPANY', ROLE_INDIVIDUAL = 'INDIVIDUAL',
+}

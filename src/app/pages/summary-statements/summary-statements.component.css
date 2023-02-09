@@ -1,0 +1,34 @@
+.edit-btn {
+  color: blue;
+}
+
+.delete-btn {
+  color: red;
+}
+
+.modal-header {
+  border-bottom: 0 none;
+}
+
+.modal-footer {
+  border-top: 0 none;
+}
+
+.btn-link {
+  text-decoration: none;
+}
+
+.cancel {
+  color: #5F6368;
+}
+
+a {
+  cursor: pointer;
+}
+
+.paid-btn {
+  color: limegreen;
+}
+.pay-btn {
+  color: red;
+}
